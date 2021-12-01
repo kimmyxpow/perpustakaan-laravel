@@ -109,7 +109,7 @@
       <!-- End of Sidebar -->
 
       <!-- Content Wrapper -->
-      <div id="content-wrapper" class="d-flex flex-column">
+      <div id="content-wrapper" class="d-flex flex-column overflow-hidden">
 
          <!-- Main Content -->
          <div id="content">
